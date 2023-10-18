@@ -8,7 +8,7 @@
 }
 @font-face{
     font-family: 'Bebas';
-    src: url(../fontes/otf/BebasNeue-Regular.otf);
+    src: url(../fontes/otf/BebasNeue-Regular.otf) format('opentype');
     font-weight: normal;
 }
 :root{
